@@ -25,8 +25,8 @@ python3 generate.py
   Alternatively, you can enter any book's worth of text here. Based on your computer's processing power and input length, this process can take anywhere from a few seconds to several minutes.
  
 ## ✨ Inspiration
-  https://openai.com/blog/openai-api/
-  https://www.gwern.net/GPT-3
-  https://projects.iq.harvard.edu/rak/event/turing-test-poetry-fest#:~:text=The%20Turing%20Test%20Poetry%20Fest,October%2025th%20to%20November%2022nd.
-  https://github.com/emmahyde/PoetryGenerator
+*  https://openai.com/blog/openai-api/
+*  https://www.gwern.net/GPT-3
+*  https://projects.iq.harvard.edu/rak/event/turing-test-poetry-fest#:~:text=The%20Turing%20Test%20Poetry%20Fest,October%2025th%20to%20November%2022nd.
+*  https://github.com/emmahyde/PoetryGenerator
   
