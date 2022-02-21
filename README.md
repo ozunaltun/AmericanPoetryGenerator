@@ -14,7 +14,7 @@
 
 An AI to emulate American poets using GPT-2 and NLTK based on text input. A memorial website frond-end of output poems
   
-## About 
+## 🏫 About 
  
  The aim of this project is to analyze the style that artificial intelligence follows when it tries to imitate certain American poets. This code, which is currently based on Python3 and NLTK, will also take outputs from OpenAI and GPT-2 and analyze them in the future.
  ## 🚀 Usage
