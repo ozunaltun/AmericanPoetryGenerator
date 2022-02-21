@@ -18,7 +18,7 @@ An AI to emulate American poets using GPT-2 and NLTK based on text input. A memo
  
  The aim of this project is to analyze the style that artificial intelligence follows when it tries to imitate certain American poets. This code, which is currently based on Python3 and NLTK, will also take outputs from OpenAI and GPT-2 and analyze them in the future.
  ## 🚀 Usage
-  Python 3 is required to run the poetry generator. The default inputpoems.txt file in the same directory contains all of Edgar Allen Poe's poems and will be used to generate a poem. 
+  Python 3 is required to run the poetry generator. The default inputpoems.txt file in the same directory contains all of Edgar Allan Poe's poems and will be used to generate a poem. 
   ```sh
 python3 generate.py
 ```
